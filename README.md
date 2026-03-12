@@ -186,7 +186,7 @@ project/
     ├── lunch_performance.csv
     ├── menu_performance.csv
     ├── restaurant_sales
-    ├── server_performance
+    └── server_performance
 ```
 
 ## 📌 Purpose of the Project
