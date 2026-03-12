@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Performance Analytics Pipeline
 
-![Dashboard Preview](outputs/executive_dashboard.png)
+![image_alt]([outputs/executive_dashboard.png](https://github.com/alex-m-programmer/restaurant-performance-analytics/blob/4005908f27459ef304a3c194d79dcaaf900fd1cc/executive_dashboard.png))
 
 A data engineering and analytics pipeline that generates synthetic restaurant sales data, processes it through an ETL pipeline, and produces a business intelligence dashboard with revenue insights and forecasting.
 
