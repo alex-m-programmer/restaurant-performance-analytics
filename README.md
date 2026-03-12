@@ -137,11 +137,20 @@ docker build -t restaurant-analytics .
 
 Run the container:
 
+On Mac or Linux:
 ```bash
 docker run -v $(pwd)/outputs:/app/outputs restaurant-analytics
 ```
 
+On Windows (Command Prompt/CMD):
+```bash
+docker run -v %cd%/outputs:/app/outputs restaurant-analytics
+```
 
+On Windows (PowerShell):
+```bash
+docker run -v ${PWD}/outputs:/app/outputs restaurant-analytics
+```
 
 ### Option 2: Run Locally
 
