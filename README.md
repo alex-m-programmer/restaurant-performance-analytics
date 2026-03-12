@@ -179,8 +179,14 @@ project/
 ├── visualize.py     # Dashboard generation
 │
 └── outputs/
-    ├── sales_data.csv
-    └── executive_dashboard.png
+    ├── category_performance.csv
+    ├── dinner_performance.csv
+    ├── executive_dashboard.png
+    ├── expected_revenue.csv
+    ├── lunch_performance.csv
+    ├── menu_performance.csv
+    ├── restaurant_sales
+    ├── server_performance
 ```
 
 ## 📌 Purpose of the Project
